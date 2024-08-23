@@ -476,9 +476,9 @@ Partial Class MDIParent1
         ' 
         ' NuevoToolStripMenuItem
         ' 
-        NuevoToolStripMenuItem.Name = "NuevoToolStripMenuItem"
-        NuevoToolStripMenuItem.Size = New Size(66, 24)
-        NuevoToolStripMenuItem.Text = "Nuevo"
+        'NuevoToolStripMenuItem.Name = "NuevoToolStripMenuItem"
+        'NuevoToolStripMenuItem.Size = New Size(66, 24)
+        'NuevoToolStripMenuItem.Text = "Nuevo"
         ' 
         ' MDIParent1
         ' 

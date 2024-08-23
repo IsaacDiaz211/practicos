@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
     "\\My Project"
   ],
-  "SelectedNode": "\\My Project\\Application.Designer.vb",
+  "SelectedNode": "\\MDIParent1.Designer.vb",
   "PreviewInSolutionExplorer": false
 }

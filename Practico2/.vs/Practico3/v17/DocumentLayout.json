@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Lic en Sistemas\\Taller II\\Practicos\\Practico2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|c:\\lic en sistemas\\taller ii\\practicos\\practico2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|c:\\lic en sistemas\\taller ii\\practicos\\practico2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|c:\\lic en sistemas\\taller ii\\practicos\\practico2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|c:\\lic en sistemas\\taller ii\\practicos\\practico2\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -55,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Lic en Sistemas\\Taller II\\Practicos\\Practico2\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "C:\\Lic en Sistemas\\Taller II\\Practicos\\Practico2\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-08-16T11:04:06.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Lic en Sistemas\\Taller II\\Practicos\\Practico2\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",

@@ -3,15 +3,9 @@
 Public Class MDIParent1
 
     Private Sub ShowNewForm(ByVal sender As Object, ByVal e As EventArgs) Handles NewToolStripMenuItem.Click, NewToolStripButton.Click, NewWindowToolStripMenuItem.Click
-        ' Create a new instance of the child form.
-        Dim ChildForm As New System.Windows.Forms.Form
-        ' Make it a child of this MDI form before showing it.
-        ChildForm.MdiParent = Me
-
-        m_ChildFormNumber += 1
-        ChildForm.Text = "Window " & m_ChildFormNumber
-
-        ChildForm.Show()
+        Dim pequeñoFormulario As New PequeñoFormulario()
+        pequeñoFormulario.MdiParent = Me
+        pequeñoFormulario.Show()
     End Sub
 
     Private Sub OpenFile(ByVal sender As Object, ByVal e As EventArgs) Handles OpenToolStripMenuItem.Click, OpenToolStripButton.Click
@@ -85,9 +79,5 @@ Public Class MDIParent1
 
     Private m_ChildFormNumber As Integer
 
-    Private Sub NuevoToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles NuevoToolStripMenuItem.Click
-        Dim pequeñoFormulario As New PequeñoFormulario()
-        pequeñoFormulario.MdiParent = Me
-        pequeñoFormulario.Show()
-    End Sub
+
 End Class
